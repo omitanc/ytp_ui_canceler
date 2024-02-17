@@ -1,0 +1,87 @@
+/*.ytp-chrome-bottom,
+.ytp-gradient-bottom,
+.ytp-chrome-top,
+.ytp-pause-overlay,
+.ytp-cards-button,
+.ytp-cards-teaser {
+    display: none !important;
+}
+
+.ytp-chrome-controls .ytp-left-controls,
+.ytp-chrome-controls .ytp-progress-bar-container {
+    display: none;
+}
+
+
+.ytp-chrome-bottom {
+
+  bottom: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.ytp-chrome-controls .ytp-right-controls {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.ytp-chrome-controls .ytp-right-controls > button:not(.ytp-settings-button) {
+    display: none;
+}
+
+
+.ytp-settings-button {
+    display: block !important;
+    opacity: 1 !important;
+}
+*/
+
+
+.youtube-extension-active .ytp-chrome-bottom,
+.youtube-extension-active .ytp-chrome-top,
+.youtube-extension-active .ytp-pause-overlay,
+.youtube-extension-active .ytp-gradient-bottom,
+.youtube-extension-active .ytp-gradient-top,
+.youtube-extension-active .ytp-title,
+.youtube-extension-active .ytp-watch-later-button,
+.youtube-extension-active .ytp-share-button,
+.youtube-extension-active .ytp-cards-button,
+.youtube-extension-active .ytp-cards-teaser,
+.youtube-extension-active .ytp-chrome-controls,
+.youtube-extension-active .ytp-chrome-top-buttons,
+.youtube-extension-active .ytp-next-button,
+.youtube-extension-active .ytp-progress-bar-container,
+.youtube-extension-active .ytp-subtitles-button,
+.youtube-extension-active .ytp-play-button,
+.youtube-extension-active .ytp-fullscreen-button,
+.youtube-extension-active .ytp-miniplayer-button,
+.youtube-extension-active .ytp-button,
+.youtube-extension-active .ytp-settings-button,
+.youtube-extension-active .ytp-hd-quality-badge {
+    display: none;
+}
+
+
+
+.popup-content {
+    width: 300px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 16px;
+
+  }
+  
+  p, ul {
+    font-size: 14px;
+
+  }
+
