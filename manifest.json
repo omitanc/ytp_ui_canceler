@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube GUI Canceler",
+  "name": "YTP UI CANCELER",
   "version": "1.0.3",
   "description": "This extension is useful for screen captures.",
   "permissions": ["activeTab"],
