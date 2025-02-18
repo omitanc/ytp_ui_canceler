@@ -18,7 +18,15 @@
 .youtube-extension-active .ytp-miniplayer-button,
 .youtube-extension-active .ytp-button,
 .youtube-extension-active .ytp-settings-button,
-.youtube-extension-active .ytp-hd-quality-badge {
+.youtube-extension-active .ytp-spinner-container,
+.youtube-extension-active .ytp-gated-actions-overlay-bar,
+.youtube-extension-active .ytp-overlay,
+.youtube-extension-active .ytp-speedmaster-overlay,
+.youtube-extension-active .ytp-unmute,
+.youtube-extension-active .ytp-popup,
+.youtube-extension-active .ytp-unmute-animated,
+.youtube-extension-active .ytp-unmute-shrink
+{
     display: none;
 }
 
